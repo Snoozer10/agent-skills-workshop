@@ -2,6 +2,8 @@
 
 Create, evaluate and maintain agent skills from one reviewed source repository.
 
+**Status: experimental.** Skill-host discovery and independent behavioral evaluation remain incomplete. Read each catalog entry’s limitations before use; native API examples and model/cost claims in the imported Antigravity skill are unverified.
+
 ## Start here
 
 - [Setup report](docs/setup-report.md): completed checks and remaining qualification.
@@ -43,4 +45,6 @@ This repository is a skill collection with small maintenance tools. It does not 
 
 ## Distribution
 
-Repository visibility was verified private at setup. Licensing and third-party provenance need review before public distribution. No blanket license has been assigned to imported material.
+Original workshop material is available under the [MIT license](LICENSE). [Third-party notices](THIRD_PARTY_NOTICES.md) distinguish maintained source, external authoring helpers and upstream rights.
+
+See the [publication review](docs/publication-review.md) for review scope and qualification limits. Local runtime evidence and machine-specific configuration stay outside Git.

@@ -13,3 +13,9 @@ Use independent agent evaluation where it adds confidence and is permitted. Self
 Versions belong to individual skills. Bump a skill's declared version and catalog entry together when changing its behavior; imported unversioned packages remain marked unversioned until a reviewed revision establishes a version.
 
 Before registering a maintained skill or an external helper, follow [ownership and helper guidance](docs/authoring-tools.md). Store local attempt evidence under [.runtime/](docs/runtime.md).
+
+## Licensing and public evidence
+
+Contribute material you have permission to distribute under the applicable terms. Record the upstream source, revision and required notices for adaptations; using an authoring helper does not transfer ownership of its contents. See [third-party notices](THIRD_PARTY_NOTICES.md).
+
+Keep examples and fixtures portable and sanitized. Review commit metadata, history and workflow output before publishing private work. Preserve honest experimental and compatibility labels until supporting evidence exists.
