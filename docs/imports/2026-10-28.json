@@ -1,0 +1,68 @@
+{
+  "captured_at": "2026-10-28T17:36:47.920Z",
+  "policy": "Exact initial imports; source installation is unchanged. This record is historical, not a current-package lock.",
+  "imports": [
+    {
+      "skill": "campaign-orchestrator",
+      "source": "~/.agents/skills/campaign-orchestrator",
+      "files": [
+        {
+          "path": "agents/openai.yaml",
+          "sha256": "427d931d35fa63f62de38233df01c146f9751a3efe19f88feed0ebf4f9a86d98",
+          "bytes": 304
+        },
+        {
+          "path": "references/antigravity.md",
+          "sha256": "32be10e625ca69350839a1cb3a83528e8084991fc8a6466c6b4321940a04b7c0",
+          "bytes": 8343
+        },
+        {
+          "path": "references/contracts.md",
+          "sha256": "388d0278b831e333c14c0dae5054efddaf5e8467147e2d5c60ccf1bddf80dc38",
+          "bytes": 5543
+        },
+        {
+          "path": "references/delivery.md",
+          "sha256": "1b15a2d4ea09aa2f61eacb6d65806c7f8450f02f961e8c3578eb98d5f007ba44",
+          "bytes": 4526
+        },
+        {
+          "path": "references/naming.md",
+          "sha256": "99403e552e94635a44d95ed0999a0ffb038e701bb6271906d7152ef7604ff3ab",
+          "bytes": 6177
+        },
+        {
+          "path": "references/platforms.md",
+          "sha256": "090949324b5258a63d8bf73e2d4551e36064726eba459b27e94c62429e8888a2",
+          "bytes": 2841
+        },
+        {
+          "path": "references/scenarios.md",
+          "sha256": "21393f4277d86790a4108627340958ccb444f8f46a1e881cdfe8fe710e0f6161",
+          "bytes": 6585
+        },
+        {
+          "path": "references/verification.md",
+          "sha256": "7eeada9d7e7c699d3ecd788cc8a794e8ae47f182ba27ffb35fbce73e145f1ca0",
+          "bytes": 4261
+        },
+        {
+          "path": "SKILL.md",
+          "sha256": "616d6894c515fc52b53cc7e3d1b8cba066826f689c0bb51dbd06ced44b88bca2",
+          "bytes": 5298
+        }
+      ]
+    },
+    {
+      "skill": "antigravity-multiagent",
+      "source": "~/.gemini/config/skills/antigravity-multiagent",
+      "files": [
+        {
+          "path": "SKILL.md",
+          "sha256": "a99e2863ca1d887ee1d75f7fcd4068640c251bed2af808750e568ade1dec4118",
+          "bytes": 6898
+        }
+      ]
+    }
+  ]
+}

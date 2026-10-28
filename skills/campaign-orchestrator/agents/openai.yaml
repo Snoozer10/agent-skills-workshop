@@ -1,0 +1,6 @@
+interface:
+  display_name: "Campaign Orchestrator"
+  short_description: "Explicit campaign ownership, delivery and acceptance"
+  default_prompt: "Use $campaign-orchestrator in plan mode for this campaign; preserve any existing owner and execution permissions."
+policy:
+  allow_implicit_invocation: false

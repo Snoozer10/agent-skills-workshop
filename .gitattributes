@@ -1,0 +1,3 @@
+* text=auto
+skills/** -text
+*.py text eol=lf
